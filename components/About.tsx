@@ -9,7 +9,7 @@ const About: React.FC = () => {
           <div className="lg:w-5/12 relative">
             <div className="absolute -top-6 -left-6 w-32 h-32 bg-corporate-gold opacity-10 rounded-full animate-pulse"></div>
             <img 
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80" 
+              src="/wanessa-monteiro.png" 
               alt="Dra. Wanessa Monteiro - Especialista em Compliance e DPO" 
               loading="lazy"
               decoding="async"
