@@ -1,20 +1,48 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Wanessa Monteiro | Advocacia Corporativa, Compliance & DPO
 
-# Run and deploy your AI Studio app
+Site institucional e plataforma de diagnóstico de conformidade desenvolvido para a Dra. Wanessa Monteiro. O projeto foca em excelência em gestão de riscos, integridade e proteção de dados (LGPD).
 
-This contains everything you need to run your app locally.
+## 🚀 Tecnologias
 
-View your app in AI Studio: https://ai.studio/apps/drive/1xYBBfLXdoN3Ep2oK_oPTBAzZLvBRWT-O
+- **React 19** + **TypeScript**
+- **Vite** (Build tool)
+- **Tailwind CSS** (Estilização)
+- **Gemini AI API** (Diagnóstico inteligente de riscos)
+- **GitHub Actions** (Preparado para CI/CD)
 
-## Run Locally
+## 🛠️ Funcionalidades
 
-**Prerequisites:**  Node.js
+- **Simulador de Maturidade:** Diagnóstico executivo baseado em IA sobre Compliance e LGPD.
+- **Design Responsivo:** Adaptado para smartphones, tablets e desktops.
+- **SEO Avançado:** Metatags, Open Graph e Schema.org configurados para alta visibilidade.
+- **Acessibilidade:** Seguindo padrões internacionais (A11y).
 
+## 💻 Como rodar localmente
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clonar o repositório:**
+   ```bash
+   git clone https://github.com/defesacyber/wanessa_monteiro.git
+   ```
+
+2. **Instalar dependências:**
+   ```bash
+   npm install
+   ```
+
+3. **Configurar variáveis de ambiente:**
+   Crie um arquivo `.env` na raiz e adicione sua chave do Gemini:
+   ```env
+   VITE_GEMINI_API_KEY=sua_chave_aqui
+   ```
+
+4. **Iniciar o servidor:**
+   ```bash
+   npm run dev
+   ```
+
+## 📄 Licença
+
+Este projeto é de uso exclusivo para a Dra. Wanessa Monteiro.
+
+---
+Desenvolvido com foco em integridade e governança corporativa.
