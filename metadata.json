@@ -1,0 +1,8 @@
+{
+  "name": "Wanessa Monteiro | Advocacia Corporativa, Compliance & DPO",
+  "description": "Consultoria especializada em Direito do Trabalho, LGPD e Sistemas de Gestão Integrados (ISO 9001, 14001, 45001).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
